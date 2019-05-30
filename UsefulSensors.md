@@ -1,5 +1,4 @@
 # SVENwithVEX
-All this is is ideas of things from VEX that could be implemented with SVEN
 
 For the most part programs for Vex and or VexIQ robots is used for movement (robot move forward, robot turn right, ect.). If we have a mini-SVEN drawing people in or if we want sven to move we'll need sensors. 
 
